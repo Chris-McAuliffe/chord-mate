@@ -22,9 +22,9 @@
       }
     },
     "extra": {
-      "eas": {
-        "projectId": "replace-this-if-using-eas"
-      }
-    }
+  "eas": {
+    "projectId": "8a540975-e0ce-4916-9440-0e54c92528dc"
+  }
+}
   }
 }
