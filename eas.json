@@ -1,16 +1,15 @@
 {
-  "cli": {
-    "version": ">= 5.0.0"
-  },
   "build": {
     "preview": {
+      "node": "20.12.2",
       "android": {
         "buildType": "apk"
       }
     },
     "production": {
+      "node": "20.12.2",
       "android": {
-        "buildType": "app-bundle"
+        "buildType": "apk"
       }
     }
   }
