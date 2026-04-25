@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Chord Mate",
-    "slug": "chord-mate",
+    "slug": "chord-mate-vdvlbooucknt8n4ey6g4",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +20,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8a540975-e0ce-4916-9440-0e54c92528dc"
+      }
+    },
+    "sdkVersion": "55.0.0",
+    "platforms": [
+      "android"
+    ]
   }
 }
